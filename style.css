@@ -1,0 +1,41 @@
+body{
+    background-color: #65647C;
+    font-family: sans-serif;
+}
+
+#container{
+    text-align: center;
+    color: #F1D3B3;
+}
+
+fieldset{
+    border-radius: 20px;
+    border-color: #F8EDE3;
+    margin-top: 10px;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+
+#addTask{
+    background-color: #95CD41;
+    width: 50px;
+    border-radius: 9px;
+    height: 22px;
+}
+
+#taskInput{
+    border-radius: 9px;
+}
+
+#taskList{
+    list-style: none;
+    font-weight: bold;
+    color: #E7E6E1;
+    font-style: italic;
+}
+
+.remove-button{
+    background-color: red;
+    color: #E7E6E1;
+    border-radius: 9px;
+}
